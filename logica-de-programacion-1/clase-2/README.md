@@ -16,7 +16,6 @@ Son notas que agregamos al código para explicar qué hace cada parte. No afecta
 los comentarios son para nosotros (los programadores) 
 
 <br>
-<br>
 
 #### Condicion else 
 
@@ -42,7 +41,7 @@ Reemplazamos las comillas simples o dobles por comillas invertidas (backticks) p
 
 ## Live server 
 
-la clase trata sobre cómo instalar y utilizar la extensión Live Server en Visual Studio Code para mejorar el flujo de trabajo al programar en JavaScript, permitiendo la recarga automática del navegador al guardar los cambios en el código.
+La clase trata sobre cómo instalar y utilizar la extensión Live Server en Visual Studio Code para mejorar el flujo de trabajo al programar en JavaScript, permitiendo la recarga automática del navegador al guardar los cambios en el código.
 
 <br>
 <br>
