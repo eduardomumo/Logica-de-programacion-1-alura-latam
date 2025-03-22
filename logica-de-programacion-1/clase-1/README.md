@@ -1,7 +1,8 @@
-<center> # Clase 1 </center>
+<h1 align="center"> Clase 1 </h1>
 
 
-
+<br>
+<br>
 
 ## Variables
 
@@ -23,8 +24,8 @@ Qué son las variables y cómo declararlas y asignarles valores en JavaScript.
 
 La importancia de utilizar nombres descriptivos para las variables y seguir la convención de nomenclatura camel case.
 
-
-
+<br>
+<br>
 
 ## Condicion if 
 
@@ -36,6 +37,7 @@ Se accede a la consola a través del menú del navegador o con atajos de teclado
 
 La consola permite verificar los valores de las variables y probar el código.
 
+<br>
 
 2. ### `Console.log()` y las Comillas:
 
@@ -45,6 +47,7 @@ Las comillas indican un valor literal (string), mientras que sin comillas se ref
 
 `Console.log(NúmeroUsuario)` muestra el valor almacenado en la variable NúmeroUsuario.
 
+<br>
 
 3. ### Condicional `if`:
 
@@ -54,6 +57,7 @@ La sintaxis básica es `if (condición) { // código a ejecutar si la condición
 
 Es obligatorio usar paréntesis para la condición en JavaScript.
 
+<br>
 
 4. ### Comparación vs. Asignación:
 
@@ -63,6 +67,7 @@ Un solo igual (=) se usa para asignar un valor a una variable `(let numeroSecret
 
 Dos iguales (==) se usan para comparar si dos valores son iguales `(if (numeroUsuario == numeroSecreto))`.
 
+<br>
 
 5. ### Bloques de Código:
 
@@ -70,8 +75,8 @@ Se utilizan llaves `{}` para definir un bloque de código que se ejecuta si la c
 
 Dentro del bloque, se puede incluir cualquier cantidad de código, como mostrar una alerta `(alert("Acertaste el número"))`.
 
-
-
+<br>
+<br>
 
 ## Ejercicio Clase 1
 
