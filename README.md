@@ -1,6 +1,10 @@
-# Logica-de-programacion-1-alura-latam
+<h1 align="center"> Logica de programacion 1 Alura Latam </h1>
 
-<p>Curso 1 de logica de programación de Alura Latam G8 </p>
+<br>
+
+## Curso 1 de logica de programación de Alura Latam G8 
+
+<br>
 
 ## Clase 1 iniciando con javascrpit
 
