@@ -6,7 +6,7 @@
 
 <br>
 
-## Clase 1 iniciando con javascrpit
+## Clase 1 iniciando con javascript
 
 - Proyecto inicial
 - Variables
@@ -34,7 +34,7 @@
 
 - Break
 - Operador Ternario
-- Masth random()
+- Math random()
 - Math random en nuestro proyecto
 - Ejercicio
 <br>
