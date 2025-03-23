@@ -1,4 +1,4 @@
-<h1 align="center"> Clase 2 </h1>
+<h1 align="center"> Clase 2 Condicionales y concatenación </h1>
 
 <br>
 <br>

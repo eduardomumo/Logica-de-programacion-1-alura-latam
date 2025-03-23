@@ -1,4 +1,4 @@
-<h1 align="center"> Clase 1 </h1>
+<h1 align="center"> Clase 1 Iniciando con Javascript</h1>
 
 
 <br>
